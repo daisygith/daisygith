@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm Sylwia 
+# Hello I'm Sylwia 👋
 
 <!--
 **daisygith/daisygith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
